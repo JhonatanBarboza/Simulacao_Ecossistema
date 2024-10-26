@@ -18,6 +18,6 @@ No primeiro projeto, implementamos uma simulação onde três elementos principa
 ### Objetivo
 Demonstrar o impacto da relação entre predadores e presas em um ecossistema, com ênfase no equilíbrio necessário para que ambas as populações possam coexistir de forma sustentável.
 
-### Confira uma demonstração do projeto mais recente em ação!
+### Confira uma demonstração do projeto em ação!
 
 ![Screencast from 2024-10-12 12-57-54](https://github.com/user-attachments/assets/d02b5099-1b02-460d-ace5-8689310e2782)
