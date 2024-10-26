@@ -9,9 +9,9 @@ No primeiro projeto, implementamos uma simulação onde três elementos principa
 - **Predador**: Representado por um quadrado laranja, busca capturar presas para sobreviver.
 ![fox-face-1913](https://github.com/user-attachments/assets/3a80dcc7-a057-424e-875c-fc5d9b135741)
 - **Presa**: Representada por um quadrado branco, tenta evitar o predador enquanto procura abrigo e alimentação.
-<a href='https://emojitool.com/pt/sheep'>🐑</a>
+![ovelha](https://github.com/user-attachments/assets/7b0bf253-186b-464d-a888-e298ef33c073)
 - **Arbusto**: Representado por um quadrado verde, atua como abrigo para as presas e ajuda a manter o equilíbrio do ambiente.
-<a href='https://emojitool.com/pt/seedling'>🌱</a>
+![planta](https://github.com/user-attachments/assets/7dd7bbbb-f9da-4379-8580-cefbd8276478)
 
 ### Objetivo
 Demonstrar o impacto da relação entre predadores e presas em um ecossistema, com ênfase no equilíbrio necessário para que ambas as populações possam coexistir de forma sustentável.
