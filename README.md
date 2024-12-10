@@ -45,7 +45,7 @@ Cada função é responsável por criar uma nova geração de indivíduos basean
      - Garante que os pais estão vivos.
    - **Processo de criação**:
      - **Crossover**: Combina velocidade e alcance de visão dos pais por meio de média.
-     - **Mutação** (opcional): Algumas linhas de mutação foram comentadas, mas poderiam introduzir pequenas variações genéticas.
+     - **Mutação**: Adiciona pequenas variações aleatórias nos atributos de velocidade e alcance de visão.
      - Define energia inicial e posiciona o novo indivíduo nas coordenadas da mãe.
    - **Impacto nos pais**: Deduz energia dos pais pelo custo de reprodução.
 
